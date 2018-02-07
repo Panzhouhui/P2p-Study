@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/P2p-BgWeb/P2p-BgWeb.iml" filepath="$PROJECT_DIR$/P2p-BgWeb/P2p-BgWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2p-Common/P2p-Common.iml" filepath="$PROJECT_DIR$/P2p-Common/P2p-Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2p-Domain/P2p-Domain.iml" filepath="$PROJECT_DIR$/P2p-Domain/P2p-Domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2p-Study.iml" filepath="$PROJECT_DIR$/P2p-Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2p-UIWeb/P2p-UIWeb.iml" filepath="$PROJECT_DIR$/P2p-UIWeb/P2p-UIWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2p-UserDao/P2p-UserDao.iml" filepath="$PROJECT_DIR$/P2p-UserDao/P2p-UserDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2p-UserService/P2p-UserService.iml" filepath="$PROJECT_DIR$/P2p-UserService/P2p-UserService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2p-UserServiceProvider/P2p-UserServiceProvider.iml" filepath="$PROJECT_DIR$/P2p-UserServiceProvider/P2p-UserServiceProvider.iml" />
+    </modules>
+  </component>
+</project>

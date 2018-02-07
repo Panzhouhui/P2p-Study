@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="P2p-BgWeb" />
+        <module name="P2p-Common" />
+        <module name="P2p-Domain" />
+        <module name="P2p-UIWeb" />
+        <module name="P2p-UserDao" />
+        <module name="P2p-UserService" />
+        <module name="P2p-UserServiceProvider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="P2p-BgWeb" target="1.8" />
+      <module name="P2p-Common" target="1.8" />
+      <module name="P2p-Domain" target="1.8" />
+      <module name="P2p-Study" target="1.8" />
+      <module name="P2p-UIWeb" target="1.8" />
+      <module name="P2p-UserDao" target="1.8" />
+      <module name="P2p-UserService" target="1.8" />
+      <module name="P2p-UserServiceProvider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
